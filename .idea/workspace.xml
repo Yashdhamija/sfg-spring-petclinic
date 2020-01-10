@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2094aadd-4e58-40f0-bee3-aecf88c738d1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-data/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/src/test/java/sfgspringpetclinic/SfgSpringPetclinicApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/pet-clinic-web/src/test/java/com/google/sfgspringpetclinic/SfgSpringPetclinicApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release.properties" beforeDir="false" afterPath="$PROJECT_DIR$/release.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +24,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1W7qA8Z78oP7CAmUVKoC3FhJ9SF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,23 +38,58 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/pet-clinic-web/src/test/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\yash.dhamija\Desktop\spring_framework\sfg-spring-petclinic\pet-clinic-web\src\main\resources" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.google.sfgspringpetclinic.model" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yash.dhamija\Desktop\spring_framework\sfg-spring-petclinic\pet-clinic-web\src\main\resources" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SfgSpringPetclinicApplicationTests (1)">
+    <configuration name="SfgSpringPetclinicApplicationTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pet-clinic-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.sfgspringpetclinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google.sfgspringpetclinic" />
+      <option name="MAIN_CLASS_NAME" value="com.google.sfgspringpetclinic.SfgSpringPetclinicApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SfgSpringPetclinicApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pet-clinic-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sfgspringpetclinic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sfgspringpetclinic" />
+      <option name="MAIN_CLASS_NAME" value="sfgspringpetclinic.SfgSpringPetclinicApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SfgSpringPetclinicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="pet-clinic-web" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.google.sfgspringclinic.SfgSpringPetclinicApplication" />
@@ -51,6 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SfgSpringPetclinicApplicationTests (1)" />
+        <item itemvalue="JUnit.SfgSpringPetclinicApplicationTests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -76,7 +128,9 @@
       <updated>1578510834895</updated>
       <workItem from="1578510838515" duration="1633000" />
       <workItem from="1578605045800" duration="4744000" />
-      <workItem from="1578667300153" duration="1536000" />
+      <workItem from="1578667300153" duration="4370000" />
+      <workItem from="1578672425995" duration="7288000" />
+      <workItem from="1578684236656" duration="3564000" />
     </task>
     <task id="LOCAL-00001" summary="initial project ad">
       <created>1578511652139</created>
@@ -115,10 +169,14 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1578606047622">
+    <state x="557" y="188" key="#SfgSpringPetclinicApplicationTests" timestamp="1578673621002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578606047622" />
+    <state x="557" y="188" key="#SfgSpringPetclinicApplicationTests/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578673621002" />
+    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1578688664065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578688664065" />
     <state x="482" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578608688606">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -139,58 +197,62 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="482" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578667701344" />
-    <state x="739" y="276" key="FileChooserDialogImpl" timestamp="1578517075980">
+    <state x="739" y="276" key="FileChooserDialogImpl" timestamp="1578684199000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578517075980" />
-    <state width="1877" height="389" key="GridCell.Tab.0.bottom" timestamp="1578668719421">
+    <state x="739" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578684199000" />
+    <state width="916" height="311" key="GridCell.Tab.0.bottom" timestamp="1578689131535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578668719421" />
-    <state width="1877" height="389" key="GridCell.Tab.0.center" timestamp="1578668719421">
+    <state width="916" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578689131535" />
+    <state width="916" height="311" key="GridCell.Tab.0.center" timestamp="1578689131535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578668719421" />
-    <state width="1877" height="389" key="GridCell.Tab.0.left" timestamp="1578668719421">
+    <state width="916" height="311" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578689131535" />
+    <state width="916" height="311" key="GridCell.Tab.0.left" timestamp="1578689131535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578668719421" />
-    <state width="1877" height="389" key="GridCell.Tab.0.right" timestamp="1578668719421">
+    <state width="916" height="311" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578689131535" />
+    <state width="916" height="311" key="GridCell.Tab.0.right" timestamp="1578689131535">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="389" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578668719421" />
-    <state width="1877" height="414" key="GridCell.Tab.1.bottom" timestamp="1578667320217">
+    <state width="916" height="311" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578689131535" />
+    <state width="1877" height="414" key="GridCell.Tab.1.bottom" timestamp="1578672417227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="414" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578667320217" />
-    <state width="1877" height="414" key="GridCell.Tab.1.center" timestamp="1578667320217">
+    <state width="1877" height="414" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578672417227" />
+    <state width="1877" height="414" key="GridCell.Tab.1.center" timestamp="1578672417227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="414" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578667320217" />
-    <state width="1877" height="414" key="GridCell.Tab.1.left" timestamp="1578667320217">
+    <state width="1877" height="414" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578672417227" />
+    <state width="1877" height="414" key="GridCell.Tab.1.left" timestamp="1578672417227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="414" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578667320217" />
-    <state width="1877" height="414" key="GridCell.Tab.1.right" timestamp="1578667320217">
+    <state width="1877" height="414" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578672417227" />
+    <state width="1877" height="414" key="GridCell.Tab.1.right" timestamp="1578672417227">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="414" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578667320217" />
+    <state width="1877" height="414" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578672417227" />
     <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1578667704860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578667704860" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578667300506">
+    <state x="776" y="299" key="chooseDestDirectoryDialog" timestamp="1578675248307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578667300506" />
+    <state x="776" y="299" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578675248307" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578672426326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578672426326" />
     <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1578510977254">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578510977254" />
-    <state x="342" y="223" key="new project wizard" timestamp="1578606867812">
+    <state x="256" y="190" key="new project wizard" timestamp="1578684202575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="223" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578606867812" />
+    <state x="256" y="190" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1578684202575" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578605710842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
